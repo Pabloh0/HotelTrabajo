@@ -27,3 +27,20 @@ _________ _______           _______
 (____/   |/     \|   \_/   |/     \|                           
 
 INDICE:
+
+1º- Menu principal del sistema
+2º- Comprobación de habitaciones
+3º- Reservar una habitación
+4º- Checkout
+5º- Menu del administrador
+6º- Comporbar ganancias y reservas finalizadas
+7º- Comprobar dinero de cambio restante
+8º- Apagar menú
+
+
+
+
+
+
+
+
